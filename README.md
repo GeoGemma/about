@@ -1,4 +1,4 @@
-# GeoGemma - Generative AI for Google Earth Engine
+# GeoGemma - OpenSource Generative AI for Google Earth Engine
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93bb1c86-afa3-464c-bac7-8a3b280cf2b1" width="400"/>
