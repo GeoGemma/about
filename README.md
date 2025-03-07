@@ -1,6 +1,9 @@
 # GeoGemma - Generative AI for Google Earth Engine
 
-![GeoGemma](https://your-logo-url.com/logo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93bb1c86-afa3-464c-bac7-8a3b280cf2b1" width="400"/>
+</p>
+
 
 ## Overview
 GeoGemma is a **Google-funded research project** aimed at integrating Generative AI capabilities with **Google Earth Engine (GEE)**. Developed as part of the prestigious **Gemma Academic Reward**, it focuses on creating an AI-powered mapping system that enhances geospatial analysis through **GeoLLMs (Geospatial Large Language Models)**.
